@@ -1,0 +1,20 @@
+.media{
+    padding: 5px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.media label{
+    font-weight: 600;
+    margin: 0;
+    position: relative;
+    font-size: 24px;
+
+}
+
+
+
+.media p {
+    margin: 0 24px;
+    font-size: 24px;
+}
